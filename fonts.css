@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url('fonts/Poppins/PoppinsSemiBold/Poppins-SemiBold.eot');
+    src: url('fonts/Poppins/PoppinsSemiBold/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins/PoppinsSemiBold/Poppins-SemiBold.woff2') format('woff2'),
+        url('fonts/Poppins/PoppinsSemiBold/Poppins-SemiBold.woff') format('woff'),
+        url('fonts/Poppins/PoppinsSemiBold/Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('fonts/Poppins/PoppinsRegular/Poppins-Regular.eot');
+    src: url('fonts/Poppins/PoppinsRegular/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins/PoppinsRegular/Poppins-Regular.woff2') format('woff2'),
+        url('fonts/Poppins/PoppinsRegular/Poppins-Regular.woff') format('woff'),
+        url('fonts/Poppins/PoppinsRegular/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('fonts/Poppins/PoppinsMedium/Poppins-Medium.eot');
+    src: url('fonts/Poppins/PoppinsMedium/Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins/PoppinsMedium/Poppins-Medium.woff2') format('woff2'),
+        url('fonts/Poppins/PoppinsMedium/Poppins-Medium.woff') format('woff'),
+        url('fonts/Poppins/PoppinsMedium/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('fonts/Poppins/PoppinsLight/Poppins-Light.eot');
+    src: url('fonts/Poppins/PoppinsLight/Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins/PoppinsLight/Poppins-Light.woff2') format('woff2'),
+        url('fonts/Poppins/PoppinsLight/Poppins-Light.woff') format('woff'),
+        url('fonts/Poppins/PoppinsLight/Poppins-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('fonts/Roboto/RobotoRegular/Roboto-Regular.eot');
+    src: url('fonts/Roboto/RobotoRegular/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Roboto/RobotoRegular/Roboto-Regular.woff2') format('woff2'),
+        url('fonts/Roboto/RobotoRegular/Roboto-Regular.woff') format('woff'),
+        url('fonts/Roboto/RobotoRegular/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

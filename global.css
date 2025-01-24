@@ -1,0 +1,15 @@
+.visible 
+{
+    display: block !important;
+    opacity: 100% !important;
+}
+.visible--f
+{
+    display: flex !important;
+    opacity: 100% !important;
+}
+.invisible 
+{
+    display: none;
+    opacity: 0%;
+}
